@@ -115,8 +115,8 @@ function speak(){
         break;
       }
     } */
-    utterThis.pitch = 5;
-    utterThis.rate = 10;
+    //utterThis.pitch = 5;
+    //utterThis.rate = 10;
     synth.speak(utterThis);
   }
 }
